@@ -19,5 +19,3 @@ services:
             - GF_INSTALL_PLUGINS=grafana-googlesheets-datasource
             - GF_SECURITY_ADMIN_USER=admin
             - GF_SECURITY_ADMIN_PASSWORD=PasswordOfChoice
-        volumes: 
-            - ./var/lib/grafana/:/var/lib/grafana
