@@ -6,6 +6,8 @@
 
 This is a repository of Grafana + Google Sheets for Docker test environments
 
+step by step: https://silvemerson.medium.com/grafana-configurando-google-sheets-como-data-source-554176b84214
+
 Grafana: Latest
 
 |      Environment    |                     |
