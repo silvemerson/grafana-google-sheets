@@ -10,7 +10,7 @@ step by step: https://silvemerson.medium.com/grafana-configurando-google-sheets-
 
 Grafana: Latest
 
-|      Environment    |                     |
+|      Variables      |                     |
 | ------------------- | ------------------- |
 |  GF_INSTALL_PLUGINS |  grafana-googlesheets-datasource|
 |  GF_SECURITY_ADMIN_USER |  admin |
